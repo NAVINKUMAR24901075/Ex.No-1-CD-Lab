@@ -74,10 +74,10 @@ return 0;
 ```
 
 # OUTPUT:
-<img width="1103" height="635" alt="Screenshot 2025-08-22 104620" src="https://github.com/user-attachments/assets/ea1b872e-d31f-4a73-8139-a68490b2bc9b" />
 
-<img width="1104" height="640" alt="Screenshot 2025-08-22 104658" src="https://github.com/user-attachments/assets/0e716082-7c9e-4e14-8db8-2f8723646162" />
+<img width="706" height="418" alt="image" src="https://github.com/user-attachments/assets/7baeb019-d51c-49b7-830c-f59daeed4629" />
 
+<img width="789" height="349" alt="image" src="https://github.com/user-attachments/assets/a0446fb2-a4d3-4219-8304-f5e3d4349476" />
 
 
 # RESULT:
